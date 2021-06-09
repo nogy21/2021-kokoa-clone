@@ -1,3 +1,3 @@
 # Kokoa Clone
 
-Using CSS!
+HTML & CSS are so cool!!
