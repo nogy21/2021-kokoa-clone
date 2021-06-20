@@ -10,8 +10,8 @@
 }
 
 .user-component__avatar {
-  width: 70px;
-  height: 70px;
+  width: 75px;
+  height: 75px;
   border-radius: 22px;
   margin-right: 20px;
 }
@@ -28,14 +28,14 @@
 }
 
 .user-component__avatar--xl {
-  width: 80px;
-  height: 80px;
+  width: 90px;
+  height: 90px;
 }
 
 .user-component__avatar--sm {
   width: 60px;
   height: 60px;
-  border-radius: 25px;
+  border-radius: 15px;
 }
 
 .user-component__title--not-bold {
